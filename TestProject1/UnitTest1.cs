@@ -7,6 +7,7 @@ namespace TestProject1
         {
             string mementomori = "algo de morir nose.";
             string carga = "carga";
+            string carga2 = "carga";
         }
 
     }
