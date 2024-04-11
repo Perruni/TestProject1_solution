@@ -6,6 +6,7 @@ namespace TestProject1
         public void Test1()
         {
             string mementomori = "algo de morir nose.";
+            string carga = "carga";
         }
 
     }
